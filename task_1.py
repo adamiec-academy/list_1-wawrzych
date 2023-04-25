@@ -1,0 +1,2 @@
+def cross(n):
+    pass

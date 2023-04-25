@@ -1,0 +1,2 @@
+def hourglass(n):
+    pass
